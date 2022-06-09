@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A passionate frontend developer from Connecticut</h3>
+<h3 align="center">A passionate full stack developer from Connecticut</h3>
 
 - 🔭 I’m currently working on [Dungeons and Dragons Generator](https://github.com/Justin-Lengvarsky/DnD-API-Application)
 
