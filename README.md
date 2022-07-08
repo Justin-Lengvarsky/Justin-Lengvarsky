@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/87950479/177899452-7e7c46da-a1aa-4536-b33c-1905a2ff6b95.png" alt="header" width="1200" height="250"/>
+<img src="https://user-images.githubusercontent.com/87950479/177899452-7e7c46da-a1aa-4536-b33c-1905a2ff6b95.png" alt="header" width="1200" height="225"/>
 
 <h3 align="center">A passionate full stack developer from Connecticut</h3>
 
