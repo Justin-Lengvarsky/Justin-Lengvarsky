@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
+![Header](./https://user-images.githubusercontent.com/87950479/177897409-aaffadec-f9e7-44ff-b594-e5bfcaf8ac84.png)
+
 <h3 align="center">A passionate full stack developer from Connecticut</h3>
 
 - 🔭 I’m currently working on a [Book Manager App](#)
