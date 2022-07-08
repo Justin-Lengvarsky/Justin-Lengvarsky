@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/87950479/177897409-aaffadec-f9e7-44ff-b594-e5bfcaf8ac84.png | width=100)
+<img src="https://user-images.githubusercontent.com/87950479/177897409-aaffadec-f9e7-44ff-b594-e5bfcaf8ac84.png" alt="header" width="100" height="40"/>
 
 <h3 align="center">A passionate full stack developer from Connecticut</h3>
 
