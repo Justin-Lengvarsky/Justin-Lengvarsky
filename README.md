@@ -51,6 +51,7 @@
   </a>
       </p>
         <p><strong>HubL, Javascript & jQuery</strong> - Entry for Hubspot's 2021 Themes Challenge Hackathon. Acts as a functional CMS for Hubspot's Marketplace.</p>
+        <p>See CMS functionality: https://youtu.be/YzVp0PwcNuQ </p>
     </td>
   </tr>
 </table>
