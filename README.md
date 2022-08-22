@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full stack developer from Connecticut</h3>
 
-- 🔭 I’m currently working on an [Outfit Generator App](#)
+- 🔭 I’m currently working on an [Outfit Generator App](https://github.com/Justin-Lengvarsky/Outfit-Generator)
 
 - 👨‍💻 All of my projects are available at [https://justin-lengvarsky.github.io](https://justin-lengvarsky.github.io)
 
