@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on an [Outfit Generator App](https://github.com/Justin-Lengvarsky/Outfit-Generator)
 
-- 👨‍💻 All of my projects are available at [https://justin-lengvarsky.github.io](https://justin-lengvarsky.github.io)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://justin-lengvarsky.github.io)
 
-- 💬 Ask me about **JavaScript or React**
+- 💬 Ask me about **JavaScript or Node.js**
 
 - 📫 How to reach me **justin.lengvarsky@gmail.com**
 
