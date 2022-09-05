@@ -57,22 +57,23 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">Outfit Generator</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://outfit-generator.justin-lengvars.repl.co">
+          <img src="https://res.cloudinary.com/duf8g2rbv/image/upload/v1662400451/Screen_Shot_2022-09-05_at_1.53.24_PM_f3jsze.png" width="100%" alt="Outfit App"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://outfit-generator.justin-lengvars.repl.co" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://shawncharles.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>EJS, CSS, JavaScript, jQuery, Node and MongoDB</strong> - Fullstack web application that allows users to log on to their own account, create business professional/casual outfits and save them for future reference.</p>
     </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">Matching Cards</h3>
         <br />
