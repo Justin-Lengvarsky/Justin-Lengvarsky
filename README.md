@@ -40,7 +40,6 @@
         </a>
         <br />
         <p align="center">
-          
   <a href="https://github.com/Justin-Lengvarsky/Duality" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -61,7 +60,6 @@
           </a>
           <br />
           <p align="center">
-
     <a href="https://github.com/Justin-Lengvarsky/Book-Manager" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
     </a>  
@@ -79,7 +77,6 @@
         </a>
         <br />
         <p align="center">
-          
   <a href="https://github.com/Justin-Lengvarsky/Dungeons-and-Dragons-Generator" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
