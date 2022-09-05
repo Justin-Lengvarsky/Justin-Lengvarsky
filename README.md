@@ -34,6 +34,7 @@
       </p>
        <p><strong>Javascript, jQuery, MongoDB, Node.js, & Express.js</strong> - CRUD application that allows users to create and maintain books that they have read. Provides a nice interface to remind readers of their favorite quotes!</p>
     </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">Duality</h3>
         <br />
@@ -41,8 +42,47 @@
             <img src="https://user-images.githubusercontent.com/87950479/178039636-54504b98-4ad8-488b-bf02-1380e8e4f109.gif" width="100%"  alt="CMS App"/>
         </a>
         <br />
+        <p align="center">    
+  <a href="https://github.com/Justin-Lengvarsky/Duality" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://hubspot-developers-wz43ci-21079035.hs-sites.com/duality" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HubL, Javascript & jQuery</strong> - Entry for Hubspot's 2021 Themes Challenge Hackathon. Acts as a functional CMS for Hubspot's Marketplace.</p>
+        <p>See CMS functionality: https://youtu.be/YzVp0PwcNuQ </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Booki</h3>
+        <br />
+        <a target="_blank" href="https://book-manager-crud-app.herokuapp.com">
+            <img src="https://user-images.githubusercontent.com/87950479/178039628-2b063b90-04d1-45b9-ac7a-69c309d42ef0.gif" width="100%" alt="Book App"/>
+        </a>
+        <br />
         <p align="center">
           
+  <a href="https://github.com/Justin-Lengvarsky/Book-Manager" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://book-manager-crud-app.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+       <p><strong>Javascript, jQuery, MongoDB, Node.js, & Express.js</strong> - CRUD application that allows users to create and maintain books that they have read. Provides a nice interface to remind readers of their favorite quotes!</p>
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3 align="center">Duality</h3>
+        <br />
+      <a target="_blank" href="http://hubspot-developers-wz43ci-21079035.hs-sites.com/duality">
+            <img src="https://user-images.githubusercontent.com/87950479/178039636-54504b98-4ad8-488b-bf02-1380e8e4f109.gif" width="100%"  alt="CMS App"/>
+        </a>
+        <br />
+        <p align="center">    
   <a href="https://github.com/Justin-Lengvarsky/Duality" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
