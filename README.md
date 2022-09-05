@@ -14,25 +14,23 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Booki</h3>
-        <br />
-        <a target="_blank" href="https://book-manager-crud-app.herokuapp.com">
-            <img src="https://user-images.githubusercontent.com/87950479/178039628-2b063b90-04d1-45b9-ac7a-69c309d42ef0.gif" width="100%" alt="Book App"/>
+     <td width="50%" valign="top">
+      <h3 align="center">Outfit Generator</h3>
+      <br />
+        <a target="_blank" href="https://outfit-generator.justin-lengvars.repl.co">
+          <img src="https://res.cloudinary.com/duf8g2rbv/image/upload/v1662400451/Screen_Shot_2022-09-05_at_1.53.24_PM_f3jsze.png" width="100%" alt="Outfit App"/>
         </a>
-        <br />
+      <br />
         <p align="center">
-          
-  <a href="https://github.com/Justin-Lengvarsky/Book-Manager" target="_blank">
+  <a href="https://github.com/Justin-Lengvarsky/Outfit-Generator" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://book-manager-crud-app.herokuapp.com" target="_blank">
+  </a>
+  <a href="https://outfit-generator.justin-lengvars.repl.co" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-       <p><strong>Javascript, jQuery, MongoDB, Node.js, & Express.js</strong> - CRUD application that allows users to create and maintain books that they have read. Provides a nice interface to remind readers of their favorite quotes!</p>
+        <p><strong>EJS, CSS, JavaScript, jQuery, Node and MongoDB</strong> - Fullstack web application that allows users to log on to their own account, create business professional/casual outfits and save them for future reference.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Duality</h3>
@@ -56,22 +54,23 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Outfit Generator</h3>
-      <br />
-        <a target="_blank" href="https://outfit-generator.justin-lengvars.repl.co">
-          <img src="https://res.cloudinary.com/duf8g2rbv/image/upload/v1662400451/Screen_Shot_2022-09-05_at_1.53.24_PM_f3jsze.png" width="100%" alt="Outfit App"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/Justin-Lengvarsky/Outfit-Generator" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://outfit-generator.justin-lengvars.repl.co" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>EJS, CSS, JavaScript, jQuery, Node and MongoDB</strong> - Fullstack web application that allows users to log on to their own account, create business professional/casual outfits and save them for future reference.</p>
-    </td>
+        <h3 align="center">Booki</h3>
+          <br />
+          <a target="_blank" href="https://book-manager-crud-app.herokuapp.com">
+              <img src="https://user-images.githubusercontent.com/87950479/178039628-2b063b90-04d1-45b9-ac7a-69c309d42ef0.gif" width="100%" alt="Book App"/>
+          </a>
+          <br />
+          <p align="center">
+
+    <a href="https://github.com/Justin-Lengvarsky/Book-Manager" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    </a>  
+    <a href="https://book-manager-crud-app.herokuapp.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    </a>
+        </p>
+         <p><strong>Javascript, jQuery, MongoDB, Node.js, & Express.js</strong> - CRUD application that allows users to create and maintain books that they have read. Provides a nice interface to remind readers of their favorite quotes!</p>
+      </td>
     <td width="50%" valign="top">
       <h3 align="center">Dungeons and Dragons Generator</h3>
         <br />
