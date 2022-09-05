@@ -75,7 +75,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Dungeons and Dragons Generator</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+        <a target="_blank" href="https://dungeons-and-dragons-generator.netlify.app">
           <img src="https://res.cloudinary.com/duf8g2rbv/image/upload/v1652834835/Screen_Shot_2022-05-17_at_8.44.47_PM_pd6ayl.png" width="100%" alt="Matching Cards"/>
         </a>
         <br />
