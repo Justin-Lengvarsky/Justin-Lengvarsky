@@ -54,7 +54,6 @@
         <p>See CMS functionality: https://youtu.be/YzVp0PwcNuQ </p>
     </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Outfit Generator</h3>
@@ -73,9 +72,6 @@
       </p>
         <p><strong>EJS, CSS, JavaScript, jQuery, Node and MongoDB</strong> - Fullstack web application that allows users to log on to their own account, create business professional/casual outfits and save them for future reference.</p>
     </td>
-    
-    
-    
     <td width="50%" valign="top">
       <h3 align="center">Dungeons and Dragons Generator</h3>
         <br />
