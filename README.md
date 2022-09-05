@@ -64,33 +64,35 @@
         </a>
       <br />
         <p align="center">
-  <a href="https://outfit-generator.justin-lengvars.repl.co" target="_blank">
+  <a href="https://github.com/Justin-Lengvarsky/Outfit-Generator" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="https://outfit-generator.justin-lengvars.repl.co" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>EJS, CSS, JavaScript, jQuery, Node and MongoDB</strong> - Fullstack web application that allows users to log on to their own account, create business professional/casual outfits and save them for future reference.</p>
     </td>
     
+    
+    
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Dungeons and Dragons Generator</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="https://res.cloudinary.com/duf8g2rbv/image/upload/v1652834835/Screen_Shot_2022-05-17_at_8.44.47_PM_pd6ayl.png" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/Justin-Lengvarsky/Dungeons-and-Dragons-Generator" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://dungeons-and-dragons-generator.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This application retrives data on several elements of Dungeons and Dragons 5th Edition, including character classes, dangerous monsters and usable spells.</p>
     </td>
   </tr>
 </table>
