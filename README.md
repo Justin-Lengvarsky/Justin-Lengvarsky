@@ -73,7 +73,7 @@
       <h3 align="center">Dungeons and Dragons Generator</h3>
         <br />
         <a target="_blank" href="https://dungeons-and-dragons-generator.netlify.app">
-          <img src="https://res.cloudinary.com/duf8g2rbv/image/upload/v1652834835/Screen_Shot_2022-05-17_at_8.44.47_PM_pd6ayl.png" width="100%" alt="Matching Cards"/>
+          <img src="https://user-images.githubusercontent.com/87950479/189777121-c3cadd9d-f6e1-49c5-9991-d0211064775b.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
