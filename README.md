@@ -19,7 +19,7 @@
       <h3 align="center">Outfit Generator</h3>
       <br />
         <a target="_blank" href="https://outfit-generator.justin-lengvars.repl.co">
-          <img src="https://user-images.githubusercontent.com/87950479/189926005-66e49d4c-e293-4e5c-8a0b-57c1ee1adaa3.gif" width="100%" height="288" alt="Outfit App"/>
+          <img src="https://user-images.githubusercontent.com/87950479/189926005-66e49d4c-e293-4e5c-8a0b-57c1ee1adaa3.gif" width="100%" height="250" alt="Outfit App"/>
         </a>
       <br />
         <p align="center">
@@ -36,7 +36,7 @@
       <h3 align="center">Duality</h3>
         <br />
       <a target="_blank" href="http://hubspot-developers-wz43ci-21079035.hs-sites.com/duality">
-            <img src="https://user-images.githubusercontent.com/87950479/178039636-54504b98-4ad8-488b-bf02-1380e8e4f109.gif" width="100%"  alt="CMS App"/>
+            <img src="https://user-images.githubusercontent.com/87950479/178039636-54504b98-4ad8-488b-bf02-1380e8e4f109.gif" width="100%" height="250"  alt="CMS App"/>
         </a>
         <br />
         <p align="center">
