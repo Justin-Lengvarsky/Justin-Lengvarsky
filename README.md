@@ -19,7 +19,7 @@
       <h3 align="center">Outfit Generator</h3>
       <br />
         <a target="_blank" href="https://outfit-generator.justin-lengvars.repl.co">
-          <img src="https://user-images.githubusercontent.com/87950479/189926005-66e49d4c-e293-4e5c-8a0b-57c1ee1adaa3.gif" width="100%" alt="Outfit App"/>
+          <img src="https://user-images.githubusercontent.com/87950479/189926005-66e49d4c-e293-4e5c-8a0b-57c1ee1adaa3.gif" width="100%" height="15.5rem" alt="Outfit App"/>
         </a>
       <br />
         <p align="center">
