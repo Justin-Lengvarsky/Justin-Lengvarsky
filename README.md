@@ -16,7 +16,7 @@
 <table bordercolor="#66b2b2">
   <tr>
      <td width="50%" valign="top">
-      <h3 align="center">Outfit Generator</h3>
+      <h3 align="center">Stylo</h3>
       <br />
         <a target="_blank" href="https://stylo.up.railway.app">
           <img src="https://user-images.githubusercontent.com/87950479/189926005-66e49d4c-e293-4e5c-8a0b-57c1ee1adaa3.gif" width="100%" height="260" alt="Outfit App"/>
