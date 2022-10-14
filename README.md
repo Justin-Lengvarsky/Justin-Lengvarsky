@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full stack developer from Connecticut</h3>
 
-- 🔭 I’m currently working on an [Outfit Generator App](https://github.com/Justin-Lengvarsky/Outfit-Generator)
+- 🔭 I’m currently working on an [Outfit Generator App](https://github.com/Justin-Lengvarsky/Stylo)
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://justin-lengvarsky.github.io)
 
@@ -18,15 +18,15 @@
      <td width="50%" valign="top">
       <h3 align="center">Outfit Generator</h3>
       <br />
-        <a target="_blank" href="https://outfit-generator.justin-lengvars.repl.co">
+        <a target="_blank" href="https://stylo.up.railway.app">
           <img src="https://user-images.githubusercontent.com/87950479/189926005-66e49d4c-e293-4e5c-8a0b-57c1ee1adaa3.gif" width="100%" height="260" alt="Outfit App"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/Justin-Lengvarsky/Outfit-Generator" target="_blank">
+  <a href="https://github.com/Justin-Lengvarsky/Stylo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://outfit-generator.justin-lengvars.repl.co" target="_blank">
+  <a href="https://stylo.up.railway.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
