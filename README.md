@@ -55,7 +55,7 @@
     <td width="50%" valign="top">
         <h3 align="center">Booki</h3>
           <br />
-          <a target="_blank" href="https://book-manager-crud-app.herokuapp.com">
+          <a target="_blank" href="https://book-manager.cyclic.app">
               <img src="https://user-images.githubusercontent.com/87950479/178039628-2b063b90-04d1-45b9-ac7a-69c309d42ef0.gif" width="100%" height="260"  alt="Book App"/>
           </a>
           <br />
@@ -63,7 +63,7 @@
     <a href="https://github.com/Justin-Lengvarsky/Book-Manager" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
     </a>  
-    <a href="https://book-manager-crud-app.herokuapp.com" target="_blank">
+    <a href="https://book-manager.cyclic.app" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
     </a>
         </p>
