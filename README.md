@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://justin-lengvarsky.github.io)
 
-- 💬 Ask me about **React or Node.js**
+- 💬 Ask me about **React.js or Node.js**
 
 - 📫 How to reach me **justin.lengvarsky@gmail.com**
 
